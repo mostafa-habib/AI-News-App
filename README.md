@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## [ِAI-News-App](https://mostafa-habib.github.io/AI-News-App/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Views are on: https://mostafa-habib.github.io/AI-News-App/ <br/>
 
 ## Available Scripts
 
