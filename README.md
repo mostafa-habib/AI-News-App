@@ -1,7 +1,6 @@
 ## [ِAI-News-App](https://mostafa-habib.github.io/AI-News-App/)
 
 - Views are on: https://mostafa-habib.github.io/AI-News-App/ <br/>
-- ![GitHub Logo](https://www.awesomescreenshot.com/image/31971894?key=a81595a4dee1c2176743d5e13c0ca9df)
 
 ## Available Scripts
 
