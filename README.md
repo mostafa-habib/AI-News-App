@@ -1,7 +1,7 @@
 ## [ِAI-News-App](https://mostafa-habib.github.io/AI-News-App/)
 
 - Views are on: https://mostafa-habib.github.io/AI-News-App/ <br/>
-- [https://www.awesomescreenshot.com/image/31971894?key=a81595a4dee1c2176743d5e13c0ca9df]
+- ![AI-News-App](https://www.awesomescreenshot.com/image/31971894?key=a81595a4dee1c2176743d5e13c0ca9df))
 ## Available Scripts
 
 In the project directory, you can run:
